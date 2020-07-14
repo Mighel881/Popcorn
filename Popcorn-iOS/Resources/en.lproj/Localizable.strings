@@ -1,0 +1,131 @@
+/*
+  Localizable.strings
+  PopcornTime
+
+  Created by Jarrod Norwell on 28/5/20.
+  Copyright © 2020 Jarrod Norwell. All rights reserved.
+*/
+
+
+/*
+ Translation by Antique (@Antique) 28/05/2020
+*/
+
+
+// Other
+"Choose Quality" = "Choose Quality";
+
+
+// MovieDetailsActorsCell
+"Actors" = "Actors";
+
+// MovieDetailsCrewCell
+"Crew" = "Crew";
+
+// MovieDetailsGenresCell
+"Genres" = "Genres";
+
+// MovieDetailsMainDetailsCell
+"Trailer" = "Trailer";
+"Download" = "Download";
+"Stream" = "Stream";
+
+"Summary" = "Summary";
+"Download Started" = "Download Started";
+
+// MovieDetailsRelatedCell
+"Related" = "Related";
+
+
+// DownloadsCollectionViewController
+"Downloads" = "Downloads";
+"Queue" = "Queue";
+"Downloaded" = "Downloaded";
+
+"Playback Options" = "Playback Options";
+"Play" = "Play";
+"Broadcast" = "Broadcast";
+"Now Broadcasting" = "Now Broadcasting";
+"Delete" = "Delete";
+
+
+// MoviesCollectionViewController
+"Movies" = "Movies";
+
+
+// ShowsCollectionViewController
+"Shows" = "Shows";
+
+
+// WatchlistCollectionViewController
+"Watchlist" = "Watchlist";
+"Watched" = "Watched";
+
+"Watchlist Options" = "Watchlist Options";
+"Remove" = "Remove";
+"View" = "View";
+
+
+// StreamProgressViewController
+"Experimental" = "Experimental";
+"Loading stream..." = "Loading stream...";
+
+"Dismiss Options" = "Dismiss Options";
+"Dismiss" = "Dismiss";
+"Dismiss & Delete" = "Dismiss & Delete";
+
+
+
+
+// AlertHelper
+"Clear Cache" = "Clear Cache";
+"Are you sure you want to clear the download cache?" = "Are you sure you want to clear the download cache?";
+"Clear" = "Clear";
+
+"Successful" = "Successful";
+"Cache was already empty, no disk space was reclaimed." = "Cache was already empty, no disk space was reclaimed.";
+"Cleaned" = "Cleaned";
+
+"Download Options" = "Download Options";
+"Pause, resume, stop and save a download." = "Pause, resume, stop and save a download.";
+"Pause" = "Pause";
+"Resume" = "Resume";
+"Save" = "Save";
+"Stop (Delete)" = "Stop (Delete)";
+
+"Download Failed" = "Download Failed";
+
+"Genre" = "Genre";
+"Select a genre to filter by." = "Select a genre to filter by.";
+
+"Filter" = "Filter";
+"Select a filter to sort by." = "Select a filter to sort by.";
+
+"Magnet" = "Magnet";
+"Enter magnet link." = "Enter magnet link.";
+
+
+// General / Alerts
+"Cancel" = "Cancel";
+"Close" = "Close";
+"Search" = "Search";
+
+
+// DownloadStatus
+"Finished" = "Finished";
+"Paused" = "Paused";
+"Processing" = "Processing";
+
+
+// Errors
+"Error" = "Error";
+"Error fetching valid trailer URL from YouTube." = "Error fetching valid trailer URL from YouTube.";
+
+"No Torrents" = "No Torrents";
+"Torrents could not be found for the specified media." = "Torrents could not be found for the specified media.";
+
+"Failed" = "Failed";
+"Error cleaning cache.";
+
+
+// Subtitles

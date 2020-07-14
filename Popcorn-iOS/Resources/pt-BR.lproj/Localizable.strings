@@ -1,0 +1,165 @@
+/*
+  Localizable.strings
+  PopcornTime
+
+  Created by Jarrod Norwell on 28/5/20.
+  Copyright © 2020 Jarrod Norwell. All rights reserved.
+*/
+
+
+/*
+ BrunoNFL, Portuguese and Brazilian Portuguese.
+ @Brun0NFL - Twitter
+ /u/BrunoNFL - Reddit
+*/
+
+
+// Other
+"Choose Quality" = "Escolher Qualidade";
+
+
+// MovieDetailsActorsCell
+"Actors" = "Atores";
+
+// MovieDetailsCrewCell
+"Crew" = "Elenco";
+
+// MovieDetailsGenresCell
+"Genres" = "Genero";
+
+// MovieDetailsMainDetailsCell
+"Trailer" = "Trailer";
+"Download" = "Baixar";
+"Stream" = "Reprodizir";
+
+"Summary" = "Resumo";
+"Download Started" = "Download Iniciado";
+
+// MovieDetailsRelatedCell
+"Related" = "Relacionado";
+
+
+// DownloadsCollectionViewController
+"Downloads" = "Downloads";
+"Queue" = "Fila";
+"Downloaded" = "Baixados";
+
+"Playback Options" = "Opções de Reprodução";
+"Play" = "Reproduzir";
+"Broadcast" = "Transmitindo";
+"Now Broadcasting" = "Transmitindo agora";
+"Delete" = "Apagar";
+
+
+// MoviesCollectionViewController
+"Movies" = "Filmes";
+
+
+// ShowsCollectionViewController
+"Shows" = "Séries";
+
+
+// WatchlistCollectionViewController
+"Watchlist" = "Salvos";
+"Watched" = "Assistidos";
+
+"Watchlist Options" = "Opções dos Salvos";
+"Remove" = "Remover";
+"View" = "Abrir";
+
+
+// StreamProgressViewController
+"Experimental" = "Experimental";
+"Loading stream..." = "Carregando filme...";
+
+"Dismiss Options" = "Sair das Opções";
+"Dismiss" = "Sair";
+"Dismiss & Delete" = "Sair e Deletar";
+
+// AlertHelper
+"Clear Cache" = "Limpar Cache";
+"Are you sure you want to clear the download cache?" = "Tem certeza que quer apagar todo o cache de filmes baixados?";
+"Clear" = "Limpar";
+
+"Successful" = "Sucesso";
+"Cache was already empty, no disk space was reclaimed." = "Cache já estava vazio, nada de espaço restaurado";
+"Cleaned" = "Limpo";
+
+"Download Options" = "Opções de download";
+"Pause, resume, stop and save a download." = "Pause, resuma, pare e salve um download.";
+"Pause" = "Pausar";
+"Resume" = "Resumir";
+"Save" = "Salvar";
+"Stop (Delete)" = "Parar (Deletar)";
+
+"Download Failed" = "Falha no Download";
+
+"Genre" = "Genero";
+"Select a genre to filter by." = "Selecione um gênero para sortir.";
+
+// Genres
+"All" = "Todos";
+"Action" = "Ação";
+"Adventure" = "Aventura";
+"Animation" = "Animação";
+"Comedy" = "Comédia";
+"Crime" = "Crime";
+"Disaster" = "Disastre";
+"Documentary" = "Documentário";
+"Drama" = "Drama";
+"Family" = "Família";
+"Fan Film" = "Fan Film";
+"Fantasy" = "Fantasia";
+"Film Noir" = "Filme Noir";
+"History" = "Histórico";
+"Holiday" = "Férias";
+"Horror" = "Terror";
+"Indie" = "Indie";
+"Music" = "Musical";
+"Mystery" = "Mistério";
+"Road" = "Estrada";
+"Romance" = "Romance";
+"Science Fiction" = "Ficção Científica";
+"Short" = "Curta";
+"Sporting Event" = "Evento Esportivo";
+"Sports" = "Esporte";
+"Suspense" = "Suspense";
+"Thriller" = "Medo";
+"War" = "Guerra";
+"Western" = "Ocidental";
+
+"Filter" = "Filtrar";
+"Select a filter to sort by." = "Selecione um filtro para sortir.";
+
+//Filters
+"Trending" = "Tendências";
+"Popular" = "Popular";
+"Top Rated" = "Melhor Avaliados";
+"Recently Added" = "Adicionados Recentemente";
+"New" = "Novos";
+
+"Magnet" = "Link Magnético";
+"Enter magnet link." = "Digite Link Magnético";
+
+
+// General / Alerts
+"Cancel" = "Cancelar";
+"Close" = "Fechar";
+"Search" = "Pesquisar";
+
+
+// DownloadStatus
+"Finished" = "Finalizado";
+"Paused" = "Pausado";
+"Processing" = "Processando";
+
+
+// Errors
+"Error" = "Erro";
+"Error fetching valid trailer URL from YouTube." = "Erro ao procurar por URL válida de trailer no YouTube";
+
+"No Torrents" = "Nenhum Torrent";
+"Torrents could not be found for the specified media." = "Torrents não foram encontrados para a mídia selecionada.";
+
+"Failed" = "Falhou";
+"Error cleaning cache." = "Erro limpando cache";

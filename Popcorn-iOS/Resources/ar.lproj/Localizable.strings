@@ -1,0 +1,140 @@
+/*
+  Localizable.strings
+  PopcornTime
+
+  Created by Jarrod Norwell on 28/5/20.
+  Copyright © 2020 Jarrod Norwell. All rights reserved.
+*/
+
+
+/*
+ Translation by Moh Elsawi (@Alsawi) 28/05/2020
+*/
+
+
+// Tab Bar Titles - Navigation Bar Titles
+"Movies" = "الافلام";
+"Shows" = "المسلسلات";
+"Downloads" = "التحميلات";
+
+
+// Magnet
+"Magnet" = "رابط جذب";
+"Enter magnet link" = "ادخل رابط الجذب هنا";
+
+
+// Filter
+"Filter" = "مرشِّح";
+"Select a filter to sort movies by" = "حدد مرشحًا لفرز الأفلام حسب";
+"Select a filter to sort shows by" = "حدد عامل تصفية لفرز العروض حسب";
+
+//Filters
+"Trending" = "الأكثر رواجا";
+"Popular" = "الأكثر شعبية";
+"Top Rated" = "الأعلى تقييما";
+"Recently Added" = "اضيف مؤخرا";
+"New" = "جديد";
+
+
+// Genre
+"Genre" = "النوع";
+"Select a genre to filter movies by" = "حدد نوعًا لتصفية الأفلام حسب";
+"Select a genre to filter shows by" = "حدد نوعًا لتصفية العروض حسبه";
+
+// Genres
+"All" = "الكل";
+"Action" = "اكشن";
+"Adventure" = "مغامرة";
+"Animation" = "انمي";
+"Comedy" = "كوميديا";
+"Crime" = "إجرام";
+"Disaster" = "كوارث";
+"Documentary" = "وثائقي";
+"Drama" = "دراما";
+"Family" = "عائلي";
+"Fan Film" = "ترفيهي";
+"Fantasy" = "خيالي";
+"Film Noir" = "فيلم Noir";
+"History" = "تاريخي";
+"Holiday" = "فيلم عطلة";
+"Horror" = "رعب";
+"Indie" = "إيندي";
+"Music" = "موسيقى";
+"Mystery" = "غامض";
+"Road" = "علي الطريق";
+"Romance" = "رومانسي";
+"Science Fiction" = "خيال علمي";
+"Short" = "قصير";
+"Sporting Event" = "حدث رياضي";
+"Sports" = "رياضي";
+"Suspense" = "تشويق";
+"Thriller" = "اثارة";
+"War" = "حرب";
+"Western" = "غربي";
+
+
+// Cache
+"Clear Cache" = "مسح ذاكرة التخزين المؤقت";
+"Are you sure you want to clear the download cache?" = "هل أنت متأكد أنك تريد مسح ذاكرة التخزين المؤقت للتنزيل؟";
+"Clear" = "واضح";
+
+
+// Downloads
+"Queue" = "قائمة الانتظار";
+"Downloaded" = "تم التنزيل";
+
+
+// Details
+"Details" = "التفاصيل";
+
+"Summary" = "الملخص";
+"Genres" = "الأنواع";
+"Actors" = "ممثلين";
+"Crew" = "طاقم العمل";
+"Related" = "ذات صلة";
+
+"Trailer" = "عرض مختصر";
+"Download" = "تحميل";
+"Stream" = "مجرى";
+
+"Choose Quality" = "اختر الجودة";
+
+
+// General
+"Close" = "قريب";
+"Cancel" = "الغاء";
+"Search" = "بحث";
+
+
+// Download Options
+"Download Options" = "خيارات التنزيل";
+"Pause, resume, stop and save a download" = "توقف مؤقتًا واستأنف وأوقف واحفظ التنزيل";
+"Pause" = "وقفة";
+"Resume" = "استئنف";
+"Save" = "حفظ";
+"Stop (Delete)" = "توقف (حذف)";
+"Download Failed" = "التحميل فشل";
+
+
+// Playback Options
+"Playback Options" = "خيارات التشغيل";
+"Play" = "لعب";
+"Broadcast" = "بث";
+"Now Broadcasting" = "البث الآن";
+"Delete" = "حذف";
+
+
+// Status
+"Failed" = "فشل";
+"Finished" = "تم الانتهاء من";
+"Paused" = "تم الإيقاف مؤقتًا";
+"Processing" = "معالجة";
+
+
+// Terms Of Service
+"Decline" = "انخفاض";
+"Accept" = "قبول";
+
+
+// Other
+"Download Started" = "بدأ التنزيل";
